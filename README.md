@@ -38,7 +38,7 @@
  - `default-configuration print`: Carga una copia de seguridad previamente guardada.
  - `health print`: Voltage & temperature.
  - `history print`: Historial de comandos.
- - `package print`: Paquetes del sistema.
+ - `package print`: Información sobre versión de paquetes del sistema.
  - `reboot`: Reiniciar el router.
  - `reset-configuration`: Limpia toda la configuración del router y setea la configuración por defecto.
  - `resource print`: Ver recursos del sistema.
