@@ -6,6 +6,7 @@
    ![Badge](https://img.shields.io/badge/STATUS-En%20desarrollo-blue)
    ![Badge](https://img.shields.io/pypi/status/aiogram.svg?style=flat-square)
    ![Badge](https://img.shields.io/badge/MikroTik%20RouterOS%20-6.48.6-blue)
+   
 ## Este manual introduce los comandos que son usados para realizar la siguientes funciones:
 
 **Sección 1: Comandos Generales / Destacados (Disponibles desde directorio raíz)**:
